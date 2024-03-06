@@ -1,0 +1,331 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 1440px;
+    height: 4782px;
+}
+.btn1 {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border: none;
+    margin-left: 1244px;
+    margin-top: 75px;
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 1s;
+}
+.vector {
+    width: 25px;
+    height: 0;
+    color: #000;
+    margin-top: 10px;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+.logo1 {
+    width: 84px;
+    height: 113px;
+    margin-left: 700px;
+}
+.txtanerd {
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #EC594D;
+    font-weight: 400;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+.textunder {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    width: 407px;
+    text-align: center;
+    margin-left: 538px;
+}
+.btn2 {
+    width: 136px;
+    height: 136px;
+    background-color: #EC594D1A;
+    border: none;
+    border-radius: 50%;
+    margin-left: 670px;
+    margin-top: 75px;
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 1s;
+}
+.btn2:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 6px 50px rgba(0, 0, 0, 0.05))
+}
+
+/* section 1 boshlanadi */
+
+.section1 h1 {
+    font-size: 75px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-left: 50px;
+    word-spacing: 10px;
+    margin-top: 170px;
+}
+.stepsections {
+    margin-left: 260px;
+    margin-top: 120px;
+    display: flex;
+}
+.steps {
+    font-size: 64px;
+    font-family: 'Montserrat', sans-serif;
+    color: #EC594D;
+    font-weight: 600;
+    margin-left: 5px;
+}
+.partflex {
+    margin-top: 100px;
+    margin-left: -80px;
+}
+.partflex p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    width: 600px;
+    margin-top: 20px;
+}
+.component1 {
+    width: 160px;
+    height: 260px;
+    margin-left: 180px;
+    margin-top: 90px;
+}
+.btn3 {
+    width: 136px;
+    height: 136px;
+    background-color: #EC594D1A;
+    border: none;
+    border-radius: 50%;
+    margin-left: 670px;
+    margin-top: 75px;
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 1s;
+    margin-top: 140px;
+}
+.btn3:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 6px 50px rgba(0, 0, 0, 0.05))
+}
+
+/* section 2 boshlanadi */
+
+.component2 {
+    width: 255px;
+    height: 260px;
+}
+.partflex2 {
+    margin-top: -5px;
+    margin-left: 160px;
+}
+.partflex2 p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    width: 600px;
+    margin-top: 20px;
+}
+.btn4 {
+    width: 136px;
+    height: 136px;
+    background-color: #EC594D1A;
+    border: none;
+    border-radius: 50%;
+    margin-left: 670px;
+    margin-top: 55px;
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 1s;
+    margin-top: 140px;
+}
+.btn4:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 6px 50px rgba(0, 0, 0, 0.05))
+}
+
+/* section 3 boshlanadi... */
+
+.partflex3 p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    width: 625px;
+    margin-top: 20px;
+}
+.stepsections3 {
+    margin-left: 165px;
+    margin-top: 120px;
+    display: flex;
+}
+.component3 {
+    width: 235px;
+    height: 350px;
+    margin-left: 140px;
+    margin-top: -38px;
+}
+.btn5 {
+    width: 136px;
+    height: 136px;
+    background-color: #EC594D1A;
+    border: none;
+    border-radius: 50%;
+    margin-left: 670px;
+    margin-top: 55px;
+    transition-timing-function: ease;
+    transition-property: all;
+    transition-duration: 1s;
+    margin-top: 100px;
+}
+.btn5:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 6px 50px rgba(0, 0, 0, 0.05))
+}
+
+/* section4 boshlanadi */
+
+.section4 h3 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    margin-left: 35px;
+    margin-top: 120px;
+}
+.acc1all {
+    width: 1110px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.acc1btn {
+    color: #000;
+    background-color: #FDEEED;
+    padding: 0;
+}
+.acc1btn:focus {
+    z-index: 3;
+    border-color:none;
+    box-shadow: none;
+    background-color: #fff;
+    color: #000;
+}
+.acc1btn:not(.collapsed) {
+    color: #EC594D;
+    background-color: #FDEEED;
+    box-shadow:none;
+    max-height: 170px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+.acc1body {
+    background-color: #FDEEED;
+}
+.acc1btn p:not(.collapsed) {
+    color: #EC594D;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    background-color: #FDEEED;
+    margin-left: 24px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.acc1btn:focus {
+    color: #EC594D;
+    background-color: #FDEEED;
+}
+.acc1p {
+    width: 985px;
+    padding: 0;
+    margin-left: 30px;
+    margin-right: 95px;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 32px;
+    padding-top: 10px;
+}
+.accordion-button::after {
+    flex-shrink: 0;
+    width: 1.35rem;
+    height: 1.35rem;
+    margin-left: auto;
+    content: "";
+    background-image: url(https://www.freepnglogos.com/uploads/plus-icon/plus-icon-plus-math-icon-download-icons-9.png);
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+    transition: transform .2s ease-in-out;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url(https://www.iconpacks.net/icons/2/free-minus-icon-3108-thumb.png);
+    transform: rotate(-180deg);
+}
+
+/* footer */
+
+.footer h5 {
+    text-align: center;
+    font-family: 'Moul', cursive;
+    font-size: 48px;
+    font-weight: 400;
+    margin-left: 175px;
+    margin-top: 120px;
+    width: 1096px;
+    height: 150px;
+}
+.footer hr {
+    width: 1100px;
+    height: 1px;
+    color: #000;
+    border:1px solid #000;
+    opacity: 1;
+    margin-left: 198px;
+    margin-top: 72px;
+}
+.footer p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    width: 766px;
+    height: 66px;
+    margin-left: 358px;
+    margin-top: 44px;
+}
+.nimadur {
+    width: 366px;
+    height: 108px;
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    margin-left: 558px;
+    margin-top: 18px;
+}
+.svg1 {
+    margin-left: 1300px;
+    margin-top: 375px;
+    position: absolute;
+}
+.svg2 {
+    margin-left: 1380px;
+    margin-top: 375px;
+    position: absolute;
+}
+.svg3 {
+    margin-left: 1460px;
+    margin-top: 375px;
+    position: absolute;
+}
